@@ -1,0 +1,28 @@
+***************************************MANUAL***************************************************************
+Instruções de Instalção.
+Passo 1: Para utilizar o programa há necessidade de instalar o MySQL na máquina local se não estiver providenciar neste link https://dev.mysql.com/downloads/mysql/ e instalar na máquina.
+
+Passo 2: Descompacte o arquivo para Área de transferência utilizando um descompactador se mesmo não estiver clicar neste lik http://www.winrarbrasil.com.br/winrar/download.mve baixar .
+
+Passo 2: Localize na pasta cadastro de cliente o executável clicando em Cadastro de Contato + Cadastro de Contato + na pasta Bin clique em Debug depois clique em Cadastro de Contato.exe.
+
+Passo 3:Crie um Banco de Dados com o nome agenda.
+
+Passo 4:Crie um usuário dentro do banco de dados com nome usuario e senha user123.
+
+
+_________________________________________________________________________________________________________
+Instruções de Uso
+Para utillizar o programa segue os seguintes passos:
+Passo 1 Clique nos campos e pressione a teclas tab .
+Passo 2 Para salvar os dados Clique no botao salvar.
+Passo 3 para facilitar a busca do Cep clique no botão BUSCAR CEP.
+__________________________________________________________________________________________________________
+
+Sobre o programa.
+O programa utiliza se liguagem C# orientada o objeto e dispoes do EntityFramework implementado para criar os bancos e as tabela.
+Teve sua duração de desenvolvimento em 5 horas contou com a participação de seus criadores Alex Pereira de Oliveira e Henrique Ferreira Costa.
+________________________________________________________________________________________________________
+Restrições
+
+Para melhor uso do programa,esteja conectado a internet.

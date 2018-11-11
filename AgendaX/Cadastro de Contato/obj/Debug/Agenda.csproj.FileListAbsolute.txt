@@ -1,0 +1,45 @@
+C:\Users\axew\Desktop\EFF6\EntytiFramework\CadastroDeCliente\bin\Debug\CadastroDeCliente.exe.config
+C:\Users\axew\Desktop\EFF6\EntytiFramework\CadastroDeCliente\bin\Debug\CadastroDeCliente.exe
+C:\Users\axew\Desktop\EFF6\EntytiFramework\CadastroDeCliente\bin\Debug\CadastroDeCliente.pdb
+C:\Users\axew\Desktop\EFF6\EntytiFramework\CadastroDeCliente\bin\Debug\EntityFramework.dll
+C:\Users\axew\Desktop\EFF6\EntytiFramework\CadastroDeCliente\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\axew\Desktop\EFF6\EntytiFramework\CadastroDeCliente\bin\Debug\MySql.Data.dll
+C:\Users\axew\Desktop\EFF6\EntytiFramework\CadastroDeCliente\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\axew\Desktop\EFF6\EntytiFramework\CadastroDeCliente\bin\Debug\EntityFramework.xml
+C:\Users\axew\Desktop\EFF6\EntytiFramework\CadastroDeCliente\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\axew\Desktop\EFF6\EntytiFramework\CadastroDeCliente\bin\Debug\MySql.Data.xml
+C:\Users\axew\Desktop\EFF6\EntytiFramework\CadastroDeCliente\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\axew\Desktop\EFF6\EntytiFramework\CadastroDeCliente\obj\Debug\MainWindow.baml
+C:\Users\axew\Desktop\EFF6\EntytiFramework\CadastroDeCliente\obj\Debug\MainWindow.g.cs
+C:\Users\axew\Desktop\EFF6\EntytiFramework\CadastroDeCliente\obj\Debug\App.g.cs
+C:\Users\axew\Desktop\EFF6\EntytiFramework\CadastroDeCliente\obj\Debug\CadastroDeCliente_MarkupCompile.cache
+C:\Users\axew\Desktop\EFF6\EntytiFramework\CadastroDeCliente\obj\Debug\CadastroDeCliente.g.resources
+C:\Users\axew\Desktop\EFF6\EntytiFramework\CadastroDeCliente\obj\Debug\CadastroDeCliente.Properties.Resources.resources
+C:\Users\axew\Desktop\EFF6\EntytiFramework\CadastroDeCliente\obj\Debug\Agenda.csproj.GenerateResource.cache
+C:\Users\axew\Desktop\EFF6\EntytiFramework\CadastroDeCliente\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\axew\Desktop\EFF6\EntytiFramework\CadastroDeCliente\obj\Debug\Agenda.csproj.CopyComplete
+C:\Users\axew\Desktop\EFF6\EntytiFramework\CadastroDeCliente\obj\Debug\CadastroDeCliente.exe
+C:\Users\axew\Desktop\EFF6\EntytiFramework\CadastroDeCliente\obj\Debug\CadastroDeCliente.pdb
+C:\Users\axew\Desktop\EFF6\EntytiFramework\Cadastro de Contato\bin\Debug\CadastroDeCliente.exe.config
+C:\Users\axew\Desktop\EFF6\EntytiFramework\Cadastro de Contato\bin\Debug\CadastroDeCliente.exe
+C:\Users\axew\Desktop\EFF6\EntytiFramework\Cadastro de Contato\bin\Debug\CadastroDeCliente.pdb
+C:\Users\axew\Desktop\EFF6\EntytiFramework\Cadastro de Contato\bin\Debug\EntityFramework.dll
+C:\Users\axew\Desktop\EFF6\EntytiFramework\Cadastro de Contato\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\axew\Desktop\EFF6\EntytiFramework\Cadastro de Contato\bin\Debug\MySql.Data.dll
+C:\Users\axew\Desktop\EFF6\EntytiFramework\Cadastro de Contato\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\axew\Desktop\EFF6\EntytiFramework\Cadastro de Contato\bin\Debug\EntityFramework.xml
+C:\Users\axew\Desktop\EFF6\EntytiFramework\Cadastro de Contato\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\axew\Desktop\EFF6\EntytiFramework\Cadastro de Contato\bin\Debug\MySql.Data.xml
+C:\Users\axew\Desktop\EFF6\EntytiFramework\Cadastro de Contato\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\axew\Desktop\EFF6\EntytiFramework\Cadastro de Contato\obj\Debug\Agenda.csprojAssemblyReference.cache
+C:\Users\axew\Desktop\EFF6\EntytiFramework\Cadastro de Contato\obj\Debug\MainWindow.baml
+C:\Users\axew\Desktop\EFF6\EntytiFramework\Cadastro de Contato\obj\Debug\MainWindow.g.cs
+C:\Users\axew\Desktop\EFF6\EntytiFramework\Cadastro de Contato\obj\Debug\App.g.cs
+C:\Users\axew\Desktop\EFF6\EntytiFramework\Cadastro de Contato\obj\Debug\CadastroDeCliente_MarkupCompile.cache
+C:\Users\axew\Desktop\EFF6\EntytiFramework\Cadastro de Contato\obj\Debug\CadastroDeCliente.g.resources
+C:\Users\axew\Desktop\EFF6\EntytiFramework\Cadastro de Contato\obj\Debug\CadastroDeCliente.Properties.Resources.resources
+C:\Users\axew\Desktop\EFF6\EntytiFramework\Cadastro de Contato\obj\Debug\Agenda.csproj.GenerateResource.cache
+C:\Users\axew\Desktop\EFF6\EntytiFramework\Cadastro de Contato\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\axew\Desktop\EFF6\EntytiFramework\Cadastro de Contato\obj\Debug\Agenda.csproj.CopyComplete
+C:\Users\axew\Desktop\EFF6\EntytiFramework\Cadastro de Contato\obj\Debug\CadastroDeCliente.exe
+C:\Users\axew\Desktop\EFF6\EntytiFramework\Cadastro de Contato\obj\Debug\CadastroDeCliente.pdb
